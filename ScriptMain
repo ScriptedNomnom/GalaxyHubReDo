@@ -1,0 +1,17 @@
+	elseif game.PlaceId == 1962086868 then
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/TowerOfHellV2.0/main/MainLoadScript'))()
+	elseif game.PlaceId == 574407221 then
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/SuperHeroTycoonV1.7/main/MainScript'))()
+	elseif game.PlaceId == 4620170611 then
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/BreakInScriptV3.0/main/ScriptMain'))()
+	elseif game.PlaceId == 6104994594 then
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/PilferingPiratesScriptV1.5/main/ScriptMain'))()
+	elseif game.PlaceId == 4003872968 then
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/GiantSurvivalScriptV1.5/main/ScriptMain'))()
+	elseif game.PlaceId == 5670292785 then
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/UndeadDefenseTycoonScriptV2.0/main/ScriptMain'))()
+	elseif game.PlaceId == 4913581664 then
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/CartRideScriptFullVersion/main/ScriptMain'))()
+	elseif game.PlaceId == 3431407618 then
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/IsleScriptV2.0/main/MainScript'))()
+	end
